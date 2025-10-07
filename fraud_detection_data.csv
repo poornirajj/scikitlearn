@@ -1,0 +1,7 @@
+| transaction_amount | transaction_time | location | device_type | user_age | user_account_age_days | num_prev_transactions | avg_transaction_amount | fraudulent |
+| ------------------ | ---------------- | -------- | ----------- | -------- | --------------------- | --------------------- | ---------------------- | ---------- |
+| 63.94              | 6                | NY       | mobile      | 57       | 2111                  | 18                    | 60.62                  | 0          |
+| 23.37              | 4                | CA       | desktop     | 26       | 347                   | 22                    | 77.52                  | 0          |
+| 34.90              | 15               | TX       | tablet      | 36       | 1130                  | 19                    | 79.83                  | 0          |
+| 85.02              | 21               | FL       | mobile      | 45       | 2003                  | 25                    | 88.11                  | 1          |
+| 12.66              | 10               | IL       | desktop     | 29       | 411                   | 17                    | 54.44                  | 0          |
